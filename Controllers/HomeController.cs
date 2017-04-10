@@ -10,7 +10,7 @@ namespace WebApplicationBasic.Controllers
     {
         public IActionResult Index()
         {
-            //Minor Change
+            
             return View();
         }
 
